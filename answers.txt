@@ -1,3 +1,5 @@
-git log -- answers.txt
-git log -p answers.txt
-in the context of git HEAD refer to master
+1- git log -- answers.txt
+
+2- git log -p answers.txt
+
+3- in the context of git HEAD refer to master
